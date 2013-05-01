@@ -1,0 +1,13 @@
+{
+  "name": "polyfill-array",
+  "version": "0.0.1",
+  "description": "Add useful functions to arrays",
+  "keywords": ["polyfill","array","pushoff","unshiftoff"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/polyfill-array",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/polyfill-array.git"
+  },
+  "main": "index"
+}
