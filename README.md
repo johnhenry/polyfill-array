@@ -1,6 +1,6 @@
 #Polyfill - Array
 
-##Add useful functions to array
+##Add useful functions to arrays
 
 ##Node
 ### Installation
@@ -12,6 +12,7 @@
 
 ```js
     require('polyfill-array');
+
     console.log([1,2,3].unshiftOff(3)) //#[3,1,2];
 ```
 
