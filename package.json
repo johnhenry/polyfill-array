@@ -1,6 +1,6 @@
 {
   "name": "polyfill-array",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add useful functions to arrays",
   "keywords": ["polyfill","array","pushoff","unshiftoff"],
   "author": "John Henry <john@iamjohnhenry.com>",
